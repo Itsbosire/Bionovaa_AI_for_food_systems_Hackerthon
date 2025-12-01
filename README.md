@@ -5,7 +5,8 @@ Mkulima Link Kenya is an agri-tech solution designed to help smallholder farmers
 ## Demo Video
 
 Watch the demo here:  [Watch Here](https://www.loom.com/share/bb2d0dbceb3a4921a81ab805d6793a5f)
-To download the slide deck pitch, click [This Link Here](./docs/Mkulima_link_design.pptx).
+
+To download the slide deck pitch, click [This Link Here](https://docs.google.com/presentation/d/13TnH7QImRmxvKf0h7uQplkd7ug6f3mSf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true).
 
 ## About the App
 
