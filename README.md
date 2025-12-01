@@ -9,6 +9,7 @@ Watch the demo here:  [Watch Here](https://www.loom.com/share/bb2d0dbceb3a4921a8
 To download the slide deck pitch, click [This Link Here](https://docs.google.com/presentation/d/13TnH7QImRmxvKf0h7uQplkd7ug6f3mSf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true).
 
 For a more detailed report, refer to the [Report.md](./Report.md) file.
+
 ## About the App
 
 Mkulima Link Kenya aims to bridge the digital divide in rural farming communities by providing an easy-to-use mobile app and optional USSD/SMS access for farmers without smartphones.
