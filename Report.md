@@ -70,7 +70,7 @@ A functional prototype demo was recorded using **Loom**.
 **Demo Link:**  
 [Watch Here](https://www.loom.com/share/bb2d0dbceb3a4921a81ab805d6793a5f)
 
-To view the pitch deck, click [This Link Here](./docs/Mkulima_link_design.pptx).
+To view the pitch deck, click [This Link Here](https://docs.google.com/presentation/d/13TnH7QImRmxvKf0h7uQplkd7ug6f3mSf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true).
 
 ## 6. Pitch Deck Summary
 
