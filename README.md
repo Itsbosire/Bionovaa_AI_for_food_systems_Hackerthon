@@ -14,6 +14,8 @@ For a more detailed report, refer to the [Report.md](./Report.md) file.
 
 Mkulima Link Kenya aims to bridge the digital divide in rural farming communities by providing an easy-to-use mobile app and optional USSD/SMS access for farmers without smartphones.
 
+For more detailed interaction with the prototype, use this [Link Here](https://finite-manual-81035472.figma.site).
+
 ### Core Features
 
 - **AI Disease & Pest Detection**  
