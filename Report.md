@@ -72,6 +72,8 @@ A functional prototype demo was recorded using **Loom**.
 
 To view the pitch deck, click [This Link Here](https://docs.google.com/presentation/d/13TnH7QImRmxvKf0h7uQplkd7ug6f3mSf/edit?usp=sharing&ouid=100433825166515123610&rtpof=true&sd=true).
 
+To get a detailed view and interaction with the prototype, kindly use this [link Here](https://finite-manual-81035472.figma.site).
+
 ## 6. Pitch Deck Summary
 
 Based on the slide deck, the pitch focuses on:
