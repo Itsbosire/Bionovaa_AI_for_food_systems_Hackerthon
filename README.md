@@ -54,6 +54,7 @@ Mkulima Link empowers farmers with:
 
 - **Brian Bosire**  
 - **Faith Njuguna**
+- **John Segera**
 
 ## Future Plans
 
